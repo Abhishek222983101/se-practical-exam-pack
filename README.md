@@ -9,6 +9,8 @@ Editable draw.io diagrams and numericals for the 20 Software Engineering practic
 
 Most files have one tab per source PDF (CJ and Practical). Where the two PDFs differ, pick the tab you need.
 
+For the DFD questions (Q7, Q16, Q17) each tab holds **Level 0 and Level 1 together on one page**, so a single Ctrl+A copy gets both levels.
+
 ## Folders
 - `drawio/` – one `.drawio` file per question
 - `pdfs/` – the source PDFs (`SE-PRAC-ANS-CJ.pdf`, `SE-Practical.pdf`)
@@ -22,7 +24,7 @@ Most files have one tab per source PDF (CJ and Practical). Where the two PDFs di
 | 4 | Q04_Activity_Student_Management | Activity diagram |
 | 5 | Q05_COCOMO_Effort_Cost | Basic COCOMO, 20 KLOC |
 | 6 | Q06_Gantt_Chart_Student_Management | Activities, dependencies, Gantt |
-| 7 | Q07_DFD_Hostel_Management | DFD level 0 and 1 |
+| 7 | Q07_DFD_Hostel_Management | DFD Level 0 + Level 1 on one page |
 | 8 | Q08_Process_Model_Online_Examination | Process model |
 | 9 | Q09_CFG_Even_Odd | Basis path, V(G) = 3 |
 | 10 | Q10_CFG_Prime_Check | White-box, V(G) = 3 |
@@ -31,8 +33,8 @@ Most files have one tab per source PDF (CJ and Practical). Where the two PDFs di
 | 13 | Q13_Waterfall_Hospital_Management | Waterfall model |
 | 14 | Q14_Spiral_Mobile_Banking | Spiral model |
 | 15 | Q15_Process_Model_Smart_Traffic | Process model |
-| 16 | Q16_DFD_Course_Registration | DFD level 0 and 1 |
-| 17 | Q17_DFD_Railway_Reservation | DFD level 0 and 1 |
+| 16 | Q16_DFD_Course_Registration | DFD Level 0 + Level 1 on one page |
+| 17 | Q17_DFD_Railway_Reservation | DFD Level 0 + Level 1 on one page |
 | 18 | Q18_FP_COCOMO_Online_Pharmacy | Function points + COCOMO |
 | 19 | Q19_COCOMO_LOC_Smart_Parking | COCOMO + LOC method |
 | 20 | Q20_Class_Travel_Agency | Class diagram |
